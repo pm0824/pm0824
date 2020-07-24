@@ -1,5 +1,5 @@
 
-<img src="PRACHI MANE.gif" width="800px" height="400px">
+<img src="https://github.com/pm0824/pm0824/blob/master/PRACHI%20MANE.gif" width="800px" height="400px">
 
 
 - 👩‍💻 I’m currently working on ... ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
