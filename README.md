@@ -12,4 +12,5 @@
 - 📫 How to reach me: ... [![Gmail Badge](https://img.shields.io/badge/-maneprachi824@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:maneprachi824@gmail.com)
 - 🤍 Connect with me: ... [![Linkedin Badge](https://img.shields.io/badge/-prachimane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prachi-mane-b9a299158/)](https://www.linkedin.com/in/prachi-mane-b9a299158/)
 [![Instagram Badge](https://img.shields.io/badge/-girl.inwebdev-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/girl.inwebdev/)](https://instagram.com/girl.inwebdev)
+[![Codepen Badge](https://img.shields.io/badge/-girl_inwebdev-black?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/girl_inwebdev)](https://codepen.io/girl_inwebdev)
 
