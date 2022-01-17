@@ -9,9 +9,9 @@
 I'm a **Frontend Developer** and a **Competitive Programmer** in Python and Java. 💻
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
 
-- 🔭 I'm **Systems Engineer** at **Infosys** working as a **SAP SD Consultant**. 
+- 🔭 I'm working as a **Software Engineer** at **SmartReach.io**.
 - 🌱 I’m currently focusing on **Fullstack Web Development** and **Data Structures and Algorithms**.
-- 👯 I’d really like to collaborate on **MERN** and **Django** based projects.
+- 👯 I’d really like to collaborate on **MERN** projects.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 - ⚡ Fun fact: In my free time, you'll find me posting useful info on my instagram blog.
 
