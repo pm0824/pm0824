@@ -1,5 +1,5 @@
 
-<h1>Hey there, I'm <a  href="https://github.com/pm0824/">Prachi </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hey there, I'm <a  href="https://github.com/pm0824/">Prachi </a> </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-prachimane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prachi-mane-b9a299158/)](https://www.linkedin.com/in/prachi-mane-b9a299158/)
 [![Gmail Badge](https://img.shields.io/badge/-maneprachi824@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:maneprachi824@gmail.com)
