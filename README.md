@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-girl.inwebdev-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/girl.inwebdev/)](https://instagram.com/girl.inwebdev)
 [![Codepen Badge](https://img.shields.io/badge/-girl_inwebdev-black?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/girl_inwebdev)](https://codepen.io/girl_inwebdev)
 
-I'm a **Frontend Developer** and a **Competitive Programmer** in Python and Java. 💻
+I'm a **Fullstack Developer** and a **Competitive Programmer** in Python and Java. 💻
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
 
 - 🔭 I'm working as a **Software Engineer** at **SmartReach.io**.
